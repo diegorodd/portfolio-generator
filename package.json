@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/diegorodd/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/diegorodd/portfolio-generator#readme"
+  "homepage": "https://github.com/diegorodd/portfolio-generator#readme",
+  "devDependencies": {}
 }
